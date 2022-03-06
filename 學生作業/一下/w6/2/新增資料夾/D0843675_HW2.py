@@ -1,0 +1,12 @@
+height = float(input('身高(cm):'))#身高
+weight = float(input('體重(kg):'))#體重
+BMI = float(weight/(height*height*0.01*0.01))
+print('BMI = ',BMI)
+if BMI < 18.5:
+    print('多吃一點')
+elif BMI < 24.0:
+    print('體重正常')
+elif BMI < 27:
+    print('有一點點重')
+else:
+    print('要多運動')

@@ -1,0 +1,7 @@
+Insert c a 1
+Insert e a 1
+Insert d a 1
+Insert f a 1
+buy d
+report
+sort

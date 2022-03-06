@@ -1,0 +1,45 @@
+Insert CD Mary 280
+insert TV John 20000
+buy Book
+insert Book Jacky08 220
+search CD
+insert Book Jacky01 200
+insert Book GiGi 180
+search Book
+buy Book
+buy Book
+search Notebook
+sort
+buy CD
+sort
+report
+Insert CD Mary 280
+insert TV John 20000
+buy Book
+insert Book Jacky08 220
+search CD
+insert Book Jacky01 200
+insert Book GiGi 180
+search Book
+buy Book
+buy Book
+search Notebook
+sort
+buy CD
+sort
+report
+Insert CD Mary 280
+insert TV John 20000
+buy Book
+insert Book Jacky08 220
+search CD
+insert Book Jacky01 200
+insert Book GiGi 180
+search Book
+buy Book
+buy Book
+search Notebook
+sort
+buy CD
+sort
+report

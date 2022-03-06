@@ -1,0 +1,5 @@
+insert 4
+search 0 0
+buy 1 0
+node_num 3
+height 3

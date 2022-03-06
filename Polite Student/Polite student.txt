@@ -1,0 +1,31 @@
+有禮貌的學生
+
+已知某大學的教職員生證號的結構
+是由1個英文字母後面接著若干個數字所組成
+學生是英文字母D開頭接7個數字，老師由英文字母T開頭接5個數字
+其中學生證號的前兩個數字代表入學年度，第三個數字偶數代表男生，奇數代表女生
+
+假設你是D0745378，而且你非常有禮貌
+如果遇到學長/姊你會說 Hi, old man/woman. I am X year(s) younger than you.
+如果遇到學弟/妹你會說 Hi, young boy/girl. I am X year(s) older than you.
+如果遇到同年的同學你會說 Hi, my friend.
+如果遇到老師你會說 Good morning, teacher.
+(X是你與對方的年齡差)
+
+-Input-
+每組測試資料一列，輸入一個證號
+請將輸入的證號從0~100依序存入結構陣列中
+
+-Output-
+對每組測試資料，輸出對應的反應
+請注意
+-Sample Input-
+
+D0746235
+T01234
+D0912345
+
+-Sample Output-
+Hi, my friend.
+Good morning, teacher.
+Hi, young girl. I am 2 years older than you.
